@@ -21,7 +21,7 @@ func main() {
 ```
 
 2. 有下面的结构体，写一个通用反射调用方法，方法签名如下：
-func callMethod(conf interface{}, method string, params []interface{}) []interface{} {}
+```func callMethod(object interface{}, method string, params []interface{}) []interface{} {}```
 
 ``` go
 type Conf struct {
