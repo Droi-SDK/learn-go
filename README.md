@@ -22,6 +22,7 @@
 ### 其他
 1. 通过“a tour of go” 熟悉基本语法，https://tour.go-zh.org/welcome/1
 2. 如果还有其他空余时间可以看 https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md
+3. example https://gobyexample.com
 
 ## week2
 3. 类型与变量
